@@ -6,13 +6,13 @@ const I = {
   portifolio: 'https://Gilmar.gq',
 };
 
-export const Skills = [
+const Skills = [
   { skill: 'TypeScript', state: '90%' },
   { skill: 'NodeJs', state: '95%' },
   { skill: 'React JS', state: '50%' },
 ];
 
-export const Contact = {
+const Contact = {
   email: 'gilmar.fer10@gmail.com',
   linkedin: 'linkedin.com/in/fernandes-gilmar',
 };
