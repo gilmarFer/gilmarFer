@@ -7,6 +7,7 @@ const I = {
 };
 
 const Skills = [
+  { skill: 'Flutter', state: '90%' },
   { skill: 'TypeScript', state: '90%' },
   { skill: 'NodeJs', state: '95%' },
   { skill: 'React JS', state: '50%' },
